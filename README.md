@@ -6,4 +6,4 @@ Atuando atualmente como desenvolvedor focado em desenvolvimento de sistemas ERP 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rogeriom49?tab=repositories)
 
 ## 🛠 Habilidades
-Delphi, bancos de dados relacionais (Postgres, Firebird, MySql), Python(Data Analytics, Data Science, Machine Learning), Mobile Development(Java, Flutter), Web Development(PHP, HTML, Javascript, Css, Laravel)
+Delphi, bancos de dados relacionais (Postgres, Firebird, MySql), Python (Data Analytics, Data Science, Machine Learning), Mobile Development(Java, Flutter), Web Development(PHP, HTML, Javascript, CSS, Laravel)
